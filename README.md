@@ -58,4 +58,4 @@ python train.py
 ```
 
 ---
-*Auteur : Ezekiel Caron WeeWauters (14 ans) — Projet CORTEX / Fractal Labs.*
+*Auteur : Ezekiel Caron Weewauters (14 ans) — Projet CORTEX / Fractal Labs.*
