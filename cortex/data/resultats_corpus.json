@@ -1,0 +1,29 @@
+{
+  "resultats": [
+    {
+      "type": "invention",
+      "contexte": "Imagine une invention qui combine Santé et Chine.",
+      "mode": "REFLEXION",
+      "attendu": "Santé Chine incluant affirmait",
+      "meilleure": "C'est une invention intéressante qui combine la santé et la Chine",
+      "score": 0.5,
+      "temps": 1.8382693515572681,
+      "essais": 3,
+      "reussi": true
+    },
+    {
+      "type": "qa",
+      "question": "Que signifie cette phrase: Le script devient la nouvelle suite des aventures de Harry Callahan, cette fois opposé à un groupe de terroristes?",
+      "mode": "REFLEXION",
+      "attendu": "Le script devient la nouvelle suite des aventures de Harry Callahan, cette fois opposé à un groupe de terroristes",
+      "meilleure": "",
+      "score": 0.0,
+      "temps": 0.0,
+      "essais": 10,
+      "reussi": false
+    }
+  ],
+  "duree_s": 724.4508194923401,
+  "duree_h": 0.20123633874787225,
+  "total_exercices": 2
+}

@@ -1,0 +1,13 @@
+{
+  "id": "b62c44c4eb7f",
+  "type": "feuille",
+  "valeur": 0.75,
+  "poids": 2,
+  "tags": [
+    "robustesse"
+  ],
+  "categorie": "ROBUSTESSE",
+  "texte_original": "Ceci est un test de robustesse pour la memoire",
+  "source_url": [],
+  "nuances": []
+}

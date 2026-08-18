@@ -1,0 +1,32 @@
+# Checkpoints et poids lourds (strictement sur PC, interdits sur Git)
+*.pt
+*.pth
+*.bin
+cortex/data/*.pt
+cortex/data/checkpoint.pt
+cortex/data/optimizer_state.pt
+cortex/data/experience_bank.pt
+
+# Corpus volumineux et caches
+cortex/data/corpus_entrainement.txt
+*.txt
+!requirements.txt
+!commandes.txt
+
+# Python & Environnement
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Logs et sauvegardes temporaires
+*.log
+logs/
+.system_generated/
+resultats_qa_tmp.json
+
+# Scripts de debug temporaires / vieux patchs
+patch_*.py
+diagnostic_loss_*.py
