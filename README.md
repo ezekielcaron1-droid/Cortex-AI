@@ -21,7 +21,7 @@ Input Tokens (BPE 32k) ──► Traducteur (T) ──► Compréhension 3D (CO)
 
 ## 📊 Résultats Empiriques
 
-* **Cycle de pré-entraînement :** 130 000 micro-pas (batch effectif de 8 avec accumulation) sur un corpus francophone de 320 millions de caractères (~75M tokens).
+* **Cycle de pré-entraînement :** 100 000 micro-pas (batch effectif de 8 avec accumulation) sur un corpus francophone de 320 millions de caractères (~75M tokens).
 * **Convergence de la Loss :** Passage de **1.09** (initial) à **0.19** (final).
 
 ---
